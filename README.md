@@ -97,6 +97,10 @@ app.get("/users"...
 
 [http://localhost:3000/users/](http://localhost:3000/users/)
 
+### Video de apoyo
+
+[![ScreenShot](https://i.ytimg.com/vi/kCLojj_u8mA/1.jpg)](https://youtu.be/kCLojj_u8mA)
+
 ---
 
 Alexander Toscano Ricardo
