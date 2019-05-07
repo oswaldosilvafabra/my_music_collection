@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/atoscanoricardo/my_music_collection#readme",
   "dependencies": {
-    "express": "^4.16.4",
-    "morgan": "^1.9.1"
+    "express": "^4.16.4"
   }
 }
