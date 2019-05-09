@@ -2,7 +2,7 @@
 
 Ejemplo de backend en node js para el curso de programación web y bases de datos del programa de la Licenciatura en informatica y Medios
 
-## ECMASCRIP 6
+## ECMASCRIPt 6
 
 Es un lenguaje de programación basado en Mocha y en este curso utilizaremos el dialecto Javascript el cual será nuestro lenguaje base.
 
