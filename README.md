@@ -103,6 +103,10 @@ app.get("/users"...
 
 ---
 
+## Lección 2
+
+Conexión a bases de datos Mongo DB, creación de esquemas y vincuación a mongo Altas.
+
 Alexander Toscano Ricardo
 <br>Docente
 
